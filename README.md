@@ -25,6 +25,7 @@ pip install -r requirements.txt
 
 # Run the application:
 python init_db.py
+
 python cli.py
 
 ## Usage
