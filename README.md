@@ -17,7 +17,7 @@ Passlib
 ## Installation
 
 # Clone the repository:
-git clone https://github.com/Ogachi254 bank_budget_tracker_marv.git
+git clone https://github.com/Ogachi254bank_budget_tracker_marv.git
 
 # Install the required dependencies:
 
